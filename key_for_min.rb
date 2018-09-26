@@ -8,7 +8,7 @@ name_hash.each do |key, value|
   if low == nil || low > value 
   low = value 
   lowName = key 
-
+end 
 end
 lowName 
 end 
