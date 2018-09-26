@@ -9,3 +9,6 @@ name_hash.each do |key, value|
   lowName = key 
 end
 end
+lowName 
+end 
+end 
