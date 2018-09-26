@@ -7,7 +7,7 @@ lowName = nil
 name_hash.each do |key, value| 
   low = value 
   lowName = key 
-end
+
 end
 lowName 
 end 
